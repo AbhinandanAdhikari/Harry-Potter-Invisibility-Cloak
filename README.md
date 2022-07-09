@@ -1,7 +1,8 @@
 # Harry Potter's Invisibility Cloak using Computer Vision
 
 - This is project uses the concept of computer vision implemented using  ```Python```, ```OpenCv```, ```Numpy```.
-- This is opposite **green-screening(which removes background frame)**. Here, it will **remove the foreground blue-colored object**, creating a **sense of invisibility**.
+- This is opposite **green-screening(which removes background frame)**. Here, it will __remove the foreground blue-colored object__, creating a __sense of invisibility__.
+- [Click Here to watch the demo Video](https://youtu.be/Hp5tOJR04ds)
 
 # System Requirements:
 - ```Python```
